@@ -1,2 +1,5 @@
 .idea/
-.wav/
+*.wav
+*.log
+*.pcm
+*.mp3
